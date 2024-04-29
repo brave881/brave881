@@ -26,3 +26,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brave881&show_icons=true&locale=en" alt="brave881" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brave881&" alt="brave881" /></p>
+<a href="https://supabase.com">
+  <img
+    width="168"
+    height="30"
+    src="https://supabase.com/badge-made-with-supabase-dark.svg"
+    alt="Made with Supabase"
+  />
+</a>
